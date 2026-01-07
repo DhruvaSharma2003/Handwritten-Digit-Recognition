@@ -12,6 +12,19 @@ The task involves classifying grayscale handwritten digit images (0–9) from an
 2. Open the `.ipynb` file in Jupyter Notebook or Google Colab
 3. Run all cells sequentially
 
+## Dataset Information
+
+The dataset used in this project is an MNIST subset provided in CSV format.
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+### How to Obtain the Dataset
+
+You can download the MNIST CSV dataset from Kaggle:
+- https://www.kaggle.com/competitions/digit-recognizer/data
+
+After downloading, place the CSV file inside this `Data/` folder before running the notebook.
+
 ---
 
 ## Models Implemented
